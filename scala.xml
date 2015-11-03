@@ -1,40 +1,5 @@
 <application>
-  <component name="Play2ExcludedModulesSettings">
-    <option name="INFO">
-      <map>
-        <entry key="play-akka-angular-websocket">
-          <value>
-            <ProjectSettingsEntry />
-          </value>
-        </entry>
-        <entry key="play-angular-seed">
-          <value>
-            <ProjectSettingsEntry>
-              <option name="playDistrPath" value="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.10/jars/play_2.10-2.3.0.jar" />
-            </ProjectSettingsEntry>
-          </value>
-        </entry>
-        <entry key="root">
-          <value>
-            <ProjectSettingsEntry>
-              <option name="version" value="2.3.0" />
-              <option name="sourceDir" value="$USER_HOME$/Development/play-angular-seed/app" />
-              <option name="confDir" value="$USER_HOME$/Development/play-angular-seed/conf" />
-              <option name="routesImports">
-                <list>
-                  <option value="controllers.Assets.Asset" />
-                </list>
-              </option>
-              <option name="uri" value="$USER_HOME$/Development/play-angular-seed" />
-            </ProjectSettingsEntry>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="ScalaSettings">
-    <option name="COMPILE_SERVER_PORT" value="57524" />
-    <option name="COMPILE_SERVER_ID" value="d1a73352-f16a-4f1e-84a0-fc0a246155f6" />
-    <option name="COMPILE_SERVER_SDK" value="1.7" />
+    <option name="COMPILE_SERVER_ID" value="bb586911-87d0-4d72-a431-a3094ff3afbb" />
   </component>
 </application>
